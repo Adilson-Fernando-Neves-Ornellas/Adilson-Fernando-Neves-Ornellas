@@ -7,7 +7,7 @@ Além disso, adquiri habilidades valiosas em controle de versão e colaboração
 
 Atualmente, estou prosseguindo na minha jornada de aprendizado como participante da Residência 2023.2 em TIC no SerraTec - Parque Tecnológico da Região Serrana RJ, um programa com duração de 5 meses. Durante esse período, estou imerso em um ambiente que enfatiza o desenvolvimento Full Stack. Onde estou adquirindo conhecimentos abrangentes em várias áreas, incluindo aprofundamento em bancos de dados SQL, desenvolvimento com Programação Orientada a Objeto utilizando Java, além de consolidar minhas habilidades em Front-End, com foco em JavaScript e React. Além disso, estou explorando o mundo do desenvolvimento mobile com React Native, ampliando ainda mais meu conjunto de habilidades.
 
-No LinkedIn, compartilho regularmente atualizações sobre meus projetos pessoais, incluindo vídeos demonstrativos deles em execução no meu computador: https://www.linkedin.com/in/adilson-fernando-neves-ornellas-42b594237/
+No LinkedIn, compartilho regularmente atualizações sobre meus projetos pessoais, incluindo vídeos demonstrativos deles em execução no meu computador.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Adilson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,8 +20,12 @@ No LinkedIn, compartilho regularmente atualizações sobre meus projetos pessoai
 ##
 
 <div> 
-  <a href="https://www.instagram.com/adilson_ornellas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/adilsonfernandonevesornellas" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ornellas00@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adilson-fernando-neves-ornellas-42b594237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/adilson_ornellas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+##
+<div style="display:flex; justify-content:space-evenly;">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark#gh-dark-mode-only" />
 </div>
