@@ -25,7 +25,10 @@ No LinkedIn, compartilho regularmente atualizações sobre meus projetos pessoai
 </div>
 
 ##
-<div style="display:flex; justify-content:space-evenly;">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark#gh-dark-mode-only" />
-</div>
+
+<a href="/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only" />
+</a>
