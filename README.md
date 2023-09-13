@@ -27,7 +27,7 @@ No LinkedIn, compartilho regularmente atualizações sobre meus projetos pessoai
 </div>
 
 ##
-<div display="flex" flex-direction="row">
+<div display="flex" flex-direction="row" >
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img  width="auto" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adilson-Fernando-Neves-Ornellas&theme=dark#gh-dark-mode-only" />
   </a>
