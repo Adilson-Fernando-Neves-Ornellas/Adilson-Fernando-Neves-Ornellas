@@ -1,7 +1,7 @@
 # Adilson Fernando Neves Ornellas
 <h1>📚 Educação:</h1>  Atualmente estou cursando Bacharelado em Sistemas de Informação no CEFET/RJ, campus Nova Friburgo.
 
-<h1>🌐 Experiência em Residência TIC: </h1>
+<h1>🌐 Experiência em Residência: </h1>
       Concluí a Residência 2023.2 em TIC no SerraTec, o Parque Tecnológico da Região Serrana do Rio de Janeiro. Esta experiência foi crucial para o desenvolvimento das minhas habilidades em Full Stack, envolvendo tecnologias como Java, SQL, JavaScript, React e React Native, complementando a formação em front-end que adquiri anteriormente na Turma 4 da Residência M3 Academy em 2022.2.
 
 <h1>💼 Experiência Profissional Atual:</h1>
