@@ -5,7 +5,7 @@
       Concluí a Residência 2023.2 em TIC no SerraTec, o Parque Tecnológico da Região Serrana do Rio de Janeiro. Esta experiência foi crucial para o desenvolvimento das minhas habilidades em Full Stack, envolvendo tecnologias como Java, SQL, JavaScript, React e React Native, complementando a formação em front-end que adquiri anteriormente na Turma 4 da Residência M3 Academy em 2022.2.
 
 <h1>💼 Experiência Profissional Atual:</h1>
-        Atuando como desenvolvedor Full Stack remoto na Hotz Technology, com foco em Php e Laravel.
+        Atualmente, atuo como desenvolvedor Full Stack na Hotz Technology, onde me especializo em PHP e Laravel. Minhas responsabilidades incluem a criação de CRUDs complexos, design de tabelas em bancos de dados e o desenvolvimento de interfaces utilizando Blade, HTML, Bootstrap, CSS e JavaScript. Também implemento manipulações no DOM com jQuery para garantir que as funcionalidades dos usuários estejam alinhadas às necessidades do projeto. Tenho experiência em requisições dinâmicas utilizando AJAX, permitindo a criação de ambientes administrativos robustos para controle eficiente de sistemas e sites. Além disso, sou responsável por implementar integrações avançadas com serviços da Cloudflare, como Cloudflare Stream, Cloudflare Images e Cloudflare R2, otimizando o desempenho e a entrega de mídia em plataformas web.
 
 <h1>🔗 Conecte-se comigo:</h1>
 Clique nos icones abaixo e confira minhas redes sociais 
