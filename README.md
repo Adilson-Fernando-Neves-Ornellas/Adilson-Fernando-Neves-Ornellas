@@ -1,12 +1,4 @@
 # 👋 Adilson Fernando
-
-PHP
-Laravel
-JavaScript
-Linux
-MySQL
-Cloudflare
-
 ---
 
 ## 👨‍💻 Sobre mim
