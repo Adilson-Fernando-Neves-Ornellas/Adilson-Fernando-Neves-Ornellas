@@ -11,11 +11,7 @@
 ## 🧰 Tecnologias & Competências
 
 ### Backend / Web
-PHP
-Laravel
-Blade
-Bootstrap
-jQuery
+PHP, Laravel, Blade, Bootstrap, jQuery 
 
 - CRUDs complexos  
 - Modelagem de banco de dados  
