@@ -1,5 +1,4 @@
 # 👋 Adilson Fernando
----
 
 ## 👨‍💻 Sobre mim
 - Desenvolvedor Full Stack Pleno
