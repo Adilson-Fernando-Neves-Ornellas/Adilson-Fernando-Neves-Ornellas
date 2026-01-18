@@ -1,5 +1,3 @@
-# 👋 Adilson Fernando
-
 ## 👨‍💻 Sobre mim
 - Desenvolvedor Full Stack Pleno
 - Bacharelado em Sistemas de Informação – CEFET/RJ (Nova Friburgo)
