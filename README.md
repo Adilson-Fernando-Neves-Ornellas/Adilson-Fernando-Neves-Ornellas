@@ -25,8 +25,6 @@ jQuery
 ---
 
 ### 💳 Integrações & Pagamentos
-Asaas
-Mercado Pago
 
 - Asaas  
   - Assinaturas recorrentes  
@@ -39,7 +37,6 @@ Mercado Pago
 ---
 
 ### ☁️ Cloud & Performance
-Cloudflare
 
 - Cloudflare Stream  
 - Cloudflare Images  
@@ -49,9 +46,6 @@ Cloudflare
 ---
 
 ## 🚀 Deploy & Infraestrutura
-VPS
-Linux
-cPanel
 
 - Deploy de aplicações PHP/Laravel  
 - Configuração de ambientes (.env)  
@@ -63,7 +57,6 @@ cPanel
 ---
 
 ## ⚙️ Infraestrutura & Automação
-Raspberry Pi
 
 - Integração hardware + software  
 - Comunicação serial  
